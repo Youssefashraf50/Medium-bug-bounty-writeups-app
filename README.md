@@ -1,6 +1,6 @@
 # SecReports 📑
 
-**SecReports** is an application designed to collect writeups published on the Medium platform. Each writeup that gets published is automatically sorted into its corresponding category/section based on its topic.
+**SecReports** is an application designed to collect writeups published on the **Medium platform**. Each writeup that gets published is automatically sorted into its corresponding category/section based on its topic.
 
 ## How It Works
 
