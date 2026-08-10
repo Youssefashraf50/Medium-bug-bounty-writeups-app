@@ -21,3 +21,6 @@ The app currently supports **Arabic only**. English language support has not bee
 
 Actively maintained — future updates will address the historical writeup collection issue and expand language support.
 
+## Download 
+go to releases page
+https://github.com/Youssefashraf50/Medium-bug-bounty-writeups-app/releases/tag/v1.0
